@@ -41,20 +41,27 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="647" height="857" alt="image" src="https://github.com/user-attachments/assets/465079aa-c243-44e1-9869-0abe16e4374d" />
-<img width="823" height="469" alt="image" src="https://github.com/user-attachments/assets/f0c0ef36-921a-4e68-a83b-9cacf1a1a75c" />
+<img width="275" height="310" alt="image" src="https://github.com/user-attachments/assets/7e1dbd42-f4ac-4697-8f96-595722abf860" />
+
+<img width="784" height="495" alt="image" src="https://github.com/user-attachments/assets/18bd3eaf-ddcf-45c8-8c7e-be4f40a07958" />
+
+
 Tabulation:1
 
-<img width="547" height="256" alt="image" src="https://github.com/user-attachments/assets/e8088707-d37a-4214-b542-fd9b6e12998c" />
+<img width="324" height="142" alt="image" src="https://github.com/user-attachments/assets/a439c1a0-9060-4b3c-99a1-189643f1b911" />
+
 
 Cross connection: CIRCUIT DIAGRAM:
-<img width="535" height="728" alt="image" src="https://github.com/user-attachments/assets/fa955093-0aba-4bd2-84da-688c559b6a12" />
-<img width="684" height="377" alt="image" src="https://github.com/user-attachments/assets/69de7e05-fd41-4394-9d3a-1cb98965a0ae" />
 
+<img width="309" height="302" alt="image" src="https://github.com/user-attachments/assets/2cf3d14b-1908-4584-be7b-e7375d75ee83" />
+
+
+<img width="725" height="552" alt="image" src="https://github.com/user-attachments/assets/c47ac20c-1428-4333-b9c7-c86d90464156" />
 
 Tabulation:2
 
-<img width="461" height="213" alt="image" src="https://github.com/user-attachments/assets/cc150e12-8ee8-49ff-92bc-afd91d482f70" />
+<img width="297" height="196" alt="image" src="https://github.com/user-attachments/assets/9e63463b-35b3-4145-b72c-beef12f8148a" />
+
 
 
 
